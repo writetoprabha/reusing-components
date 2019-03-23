@@ -1,0 +1,10 @@
+.welcome-name-container{
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    color: white;
+    background-color: green;
+    border: 1px solid;
+    display: inline-block;
+    text-align: center;
+}
